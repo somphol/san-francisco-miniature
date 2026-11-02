@@ -23,3 +23,11 @@ landmarks, traffic, boats and day/night lighting. No build step, no server, no n
 ```
 
 Prefer the raw `index.html` URL from Pages, not `raw.githubusercontent.com` (served as text/plain).
+
+## Attribution
+
+The diorama derives from the **Manhattan Miniature 0.2.0** sample by **SandBase Lab**
+(<https://www.sandbase.ai>). The geography, landmarks, copy, roof detailing, bridge traffic and
+verification are new work; the scene mechanism and build pipeline are reused. Full detail, including
+the licence status, is in the [city-miniature](https://github.com/somphol/city-miniature) repository's
+`ATTRIBUTION.md`. The original brand mark is not redistributed: this build uses a neutral identity.
