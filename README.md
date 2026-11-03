@@ -3,6 +3,11 @@
 A single self-contained HTML file: one interactive 3D miniature of San Francisco with eight
 landmarks, traffic, boats and day/night lighting. No build step, no server, no network calls.
 
+**▶ Live: <https://somphol.github.io/san-francisco-miniature/>**
+
+Drag to orbit, click a landmark to fly to it, switch to Night. `?lang=zh-CN` for Simplified Chinese,
+`?embed=1` for the chrome-free layout.
+
 ## Publish on GitHub Pages
 
 1. Create a repository and push `index.html` to the default branch.
